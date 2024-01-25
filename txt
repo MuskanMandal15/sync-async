@@ -1,0 +1,1 @@
+javascript is a single threaded language - means js can only execute one thing at a time code run step by step, in order
